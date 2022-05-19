@@ -1,14 +1,12 @@
-## Sam Partee
+## Sam Partee -- @spartee
 
-Hi there! Welcome to my GitHub, the site where I have spent way too much time over the
-past decade. Currently, I work in Applied AI for Redis. Before that, I co-founded
+Hi there! Welcome to my GitHub. Heres a little bit about me.
+
+Currently, I work in Applied AI for Redis. Before that, I co-founded
 [CrayLabs](https://github.com/CrayLabs), an OSS organization for HPE/Cray, focused on
 developing AI for High Performance Computing applications.
 
-
-
-<div style="width: 100%; display: table;">
-<div style="width: 250px; float: left;">
+<div>
 I've worked on projects like:
 <ul>
    <li>
@@ -30,16 +28,16 @@ I've worked on projects like:
       <a href="https://github.com/Bears-R-Us/arkouda"> Arkouda </a>
    </li>
 </ul>
-
 And many others that are sadly closed source.
+<br></br>
+
 </div>
-<div style="margin-left: 270px;">
+
+<div align="center">
 
   <a href="https://github.com/spartee">
     <img alt="My Github Stats" title="Sam Partee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spartee&show_icons=true&theme=radical"/>
   </a>
-</div>
-
 </div>
 
 
