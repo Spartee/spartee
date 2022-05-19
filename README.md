@@ -5,6 +5,10 @@ past decade. Currently, I work in Applied AI for Redis. Before that, I co-founde
 [CrayLabs](https://github.com/CrayLabs), an OSS organization for HPE/Cray, focused on
 developing AI for High Performance Computing applications.
 
+
+
+<div style="width: 100%; display: table;">
+<div style="width: 300px; float: left;">
 I've worked on projects like:
 
 - [SmartSim](https://github.com/CrayLabs/SmartSim)
@@ -15,16 +19,16 @@ I've worked on projects like:
 - [Arkouda](https://github.com/Bears-R-Us/arkouda)
 
 And many others that are sadly closed source.
+</div>
+<div style="margin-left: 320px;">
 
-<br></br>
-
-<p align="center">
   <a href="https://github.com/spartee">
     <img alt="My Github Stats" title="Sam Partee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spartee&show_icons=true&theme=radical"/>
   </a>
-</p>
+</div>
 
-<br></br>
+</div>
+
 
 ## 🌐 Keep up with me!
 
@@ -43,7 +47,7 @@ You can also find me on:
   </a>
 </div>
 
-<br></br>
+<!--
 ## ⚙️ I Use
 
 A non-exhustive list of the tools, languages, and frameworks I use or have used recently.
@@ -54,10 +58,9 @@ A non-exhustive list of the tools, languages, and frameworks I use or have used 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+
 
 </div>
 
@@ -97,5 +100,4 @@ A non-exhustive list of the tools, languages, and frameworks I use or have used 
 
 </div>
 
-
-
+</-->
