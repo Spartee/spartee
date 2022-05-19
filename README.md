@@ -8,19 +8,32 @@ developing AI for High Performance Computing applications.
 
 
 <div style="width: 100%; display: table;">
-<div style="width: 300px; float: left;">
+<div style="width: 250px; float: left;">
 I've worked on projects like:
-
-- [SmartSim](https://github.com/CrayLabs/SmartSim)
-- [SmartRedis](https://github.com/CrayLabs/SmartRedis)
-- [RedisAI](https://github.com/RedisAI/RedisAI)
-- [Chapel](https://github.com/chapel-lang/chapel)
-- [DeterminedAI](https://github.com/determined-ai)
-- [Arkouda](https://github.com/Bears-R-Us/arkouda)
+<ul>
+   <li>
+      <a href="https://github.com/CrayLabs/SmartSim"> SmartSim </a>
+   </li>
+    <li>
+      <a href="https://github.com/CrayLabs/SmartRedis"> SmartRedis </a>
+   </li>
+    <li>
+      <a href="https://github.com/RedisAI/RedisAI"> RedisAI </a>
+   </li>
+    <li>
+      <a href="https://github.com/chapel-lang/chapel"> Chapel </a>
+   </li>
+    <li>
+      <a href="https://github.com/determined-ai"> DeterminedAI </a>
+    </li>
+    <li>
+      <a href="https://github.com/Bears-R-Us/arkouda"> Arkouda </a>
+   </li>
+</ul>
 
 And many others that are sadly closed source.
 </div>
-<div style="margin-left: 320px;">
+<div style="margin-left: 270px;">
 
   <a href="https://github.com/spartee">
     <img alt="My Github Stats" title="Sam Partee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spartee&show_icons=true&theme=radical"/>
