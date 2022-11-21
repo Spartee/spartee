@@ -1,49 +1,69 @@
 ## Sam Partee -- @spartee
 
-Hi there! Welcome to my GitHub. Heres a little bit about me.
+Hi there! Welcome to my GitHub.
 
-Currently, I work in Applied AI for Redis. Before that, I co-founded
-[CrayLabs](https://github.com/CrayLabs), an OSS organization for HPE/Cray, focused on
-developing AI for High Performance Computing applications.
 
-<div>
-I've worked on projects like:
-<ul>
-   <li>
-      <a href="https://github.com/CrayLabs/SmartSim"> SmartSim </a>
-   </li>
-    <li>
-      <a href="https://github.com/CrayLabs/SmartRedis"> SmartRedis </a>
-   </li>
-    <li>
-      <a href="https://github.com/RedisAI/RedisAI"> RedisAI </a>
-   </li>
-    <li>
-      <a href="https://github.com/chapel-lang/chapel"> Chapel </a>
-   </li>
-    <li>
-      <a href="https://github.com/determined-ai"> DeterminedAI </a>
-    </li>
-    <li>
-      <a href="https://github.com/Bears-R-Us/arkouda"> Arkouda </a>
-   </li>
-</ul>
-And many others that are sadly closed source.
-<br></br>
 
-</div>
 
-<div align="center">
+💥 Working on now
+<br>
+<p align="center">
+<a href="https://github.com/RedisVentures/redis-product-search">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=RedisVentures&repo=redis-product-search&show_owner=true&theme=react" />
+</a>&ensp;
+<a href="https://github.com/RedisVentures/redis-arxiv-search">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=RedisVentures&repo=redis-arxiv-search&show_owner=true&theme=react" />
+</a>
+</p>
 
-  <a href="https://github.com/spartee">
-    <img alt="My Github Stats" title="Sam Partee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spartee&show_icons=true&theme=radical"/>
-  </a>
-</div>
 
+<details>
+<summary> 💥 Previous Works </summary>
+<br>
+<p> A partial list of OSS contributions </p>
+<p align="center">
+<a href="https://github.com/craylabs/smartsim">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=CrayLabs&repo=SmartSim&show_owner=false&theme=react" />
+</a>&ensp;
+<a href="https://github.com/craylabs/smartredis">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=CrayLabs&repo=SmartRedis&show_owner=false&theme=react" />
+</a>
+<a href="https://github.com/chapel-lang/chapel">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=chapel-lang&repo=Chapel&show_owner=true&theme=react" />
+</a>&ensp;
+<a href="https://github.com/Bears-R-Us/arkouda">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Bears-R-Us&repo=arkouda&show_owner=true&theme=react" />
+</a>
+</p>
+</details>
+
+
+## Most Used
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🌐 Keep up with me!
 
 My site, [Partee.io](https://partee.io), is semi-technical blog I write for when I have some extra time. I mostly write about ML, HPC, and Python.
+
+### Posts
+
+- <a href="https://partee.io/2022/10/28/cibuildwheel/">Python Libraries You Might Not Know: CIBuildWheel </a>
+- <a href="https://partee.io/2022/08/11/vector-embeddings/">Vector Embeddings: From the Basics to Production</a>
+- <a href="https://partee.io/2021/02/21/climate-model-response/">Why are Climate Models Written in Programming Languages from 1950?</a>
 
 You can also find me on:
 <div class="grid" align="center">
@@ -59,6 +79,14 @@ You can also find me on:
 </div>
 
 <!--
+
+<div align="center">
+
+  <a href="https://github.com/spartee">
+    <img alt="My Github Stats" title="Sam Partee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spartee&show_icons=true&theme=radical"/>
+  </a>
+</div>
+
 ## ⚙️ I Use
 
 A non-exhustive list of the tools, languages, and frameworks I use or have used recently.
@@ -66,11 +94,6 @@ A non-exhustive list of the tools, languages, and frameworks I use or have used 
 
 <div class="grid">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 </div>
@@ -80,13 +103,9 @@ A non-exhustive list of the tools, languages, and frameworks I use or have used 
 <div class="grid">
 
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 </div>
 
@@ -103,7 +122,7 @@ A non-exhustive list of the tools, languages, and frameworks I use or have used 
 
 <div class="grid">
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
