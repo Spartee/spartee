@@ -8,8 +8,8 @@ Hi there! Welcome to my GitHub.
 💥 Working on now
 <br>
 <p align="center">
-<a href="https://github.com/RedisVentures/redis-product-search">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=RedisVentures&repo=redis-product-search&show_owner=true&theme=react" />
+<a href="https://github.com/RedisVentures/Redis-Recsys">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=RedisVentures&repo=Redis-Recsys&show_owner=true&theme=react" />
 </a>&ensp;
 <a href="https://github.com/RedisVentures/redis-arxiv-search">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=RedisVentures&repo=redis-arxiv-search&show_owner=true&theme=react" />
